@@ -1,6 +1,14 @@
-<h2> Hi There! </h2>
-<h1> Connect with me: </h1>
-<h1> Languages and Tools: </h1>
+<h1 align="center">Hi 👋, I'm Roger Ando</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/roger-ando-b6a1b1150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roger-ando-b6a1b1150" height="30" width="40" /></a>
+<a href="https://fb.com/andoroger06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andoroger06" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <div> 
     <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' width="60" height="40">
     <img src ='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' width="40" height="40">
@@ -16,23 +24,27 @@
  </div>
 
 </br>
-<picture>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogerando1&show_icons=true&locale=en&layout=compact" alt="rogerando1" />
+</p>
+   
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rogerando1&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: )"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rogerando1&show_icons=true" />
-</picture>
+</p>
 
-</br>
-<picture>
-  <source
-    srcset=" https://github-readme-stats.vercel.app/api/top-langs/?username=rogerando1&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: )"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerando1&show_icons=true" />
-</picture>
-   
+
 
 
 
